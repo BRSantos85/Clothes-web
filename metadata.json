@@ -1,0 +1,5 @@
+{
+  "name": "E-Commerce Fusion",
+  "description": "A modern and sleek online store front-end built with React, TypeScript, and Tailwind CSS. It features a landing page, a product catalog, and a fully functional shopping cart.",
+  "requestFramePermissions": []
+}
